@@ -1,4 +1,4 @@
-This is a python framework used to easily connect to a postgres database using the psychopg2 package for analysis in jupyter notebook or automated sql runs. 
+This is a python framework used to easily connect to a postgres database using the psycopg2 package for analysis in jupyter notebook or automated sql runs. 
 Automated runs of sql (table creation, inserts, etc.) can be performed by populating the sql directory 1 or more .sql files and runnung the run_sql_queries_in_directory function.
 
 How to run:
